@@ -5,7 +5,6 @@
 
 - 👨‍💻 En el Bootcamp Henry, he aprendido diversas tecnologias donde se destacan: **HTML, CSS, Javascript, React, Redux, Node JS, Express, Sequelize y PostgreSQL.**
 - 🌱 Aprendiendo Typescript y MongoDB!
-- 💬 Con conocimiento en JavaScript, React, Next.js, Redux, HTML, CSS, Sass, Node, Express y SQL
 - ⛓  Apasionado por la Programación!
 <h3 align="left">Contacto:</h3>
 <p align="left">
