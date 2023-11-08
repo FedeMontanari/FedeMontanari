@@ -1,12 +1,7 @@
-<h1 >Hola Mundo, soy Federico Montanari 👋</h1>
-<h3 >Full Stack Web Developer</h3>
-
+<h1 >Hi :)</h1>
 <hr/>
-
-- 👨‍💻 En el Bootcamp Henry, he aprendido diversas tecnologias donde se destacan: **HTML, CSS, Javascript, React, Redux, Node JS, Express, Sequelize y PostgreSQL.**
-- ⛓  Apasionado por la Programación!
   
-<h3 align="left">Contacto:</h3>
+<h3 align="left">Contact:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/federico-montanari-611155241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="federico-montanari-611155241" height="30" width="40" /></a>
 <a href=mailto:"fedemontanari@outlook.com" target="_blank"><img align="center" src="https://www.svgrepo.com/show/424662/email-newsletter-subscription.svg" alt="cinthia-maldonado-rafael-902233211" height="30" width="40" /></a>
