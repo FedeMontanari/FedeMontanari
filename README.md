@@ -1,5 +1,4 @@
 <h1 >Hi :)</h1>
-<hr/>
   
 <h3 align="left">Contact:</h3>
 <p align="left">
